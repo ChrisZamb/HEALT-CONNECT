@@ -1,12 +1,3 @@
-"""
-HealthConnect - Sistema di Valutazione del Rischio per Atleti
-Progetto RisaVet - Corsi di Intelligenza Artificiale
-ITET Rapisardi Da Vinci, Caltanissetta - Classe 3A inf.
-
-Componenti del gruppo:
-    Christian Zambuto, Rosario Modica, Emmanuel Zambuto,
-    Calogero Cutaia, Carmelo Buscemi, Francesco Tuzzolino
-"""
 
 # ── Imports ────────────────────────────────────────────────────────────────────
 import numpy as np
