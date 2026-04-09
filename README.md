@@ -134,4 +134,3 @@ Atleta: Luca   | Rischio: MEDIO | Consiglio: Riduci intensità del 30%.
 
 ---
 
-*Progetto realizzato nell'ambito del Corso di Intelligenza Artificiale · Aragona 
