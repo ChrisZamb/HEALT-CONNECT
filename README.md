@@ -1,6 +1,6 @@
 # 🏋️ HealthConnect — Valutazione del Rischio per Atleti
 
-> **Progetto RisaVet · Corso di Intelligenza Artificiale · Aragona**
+> **Progetto RiseVet · Corso di Intelligenza Artificiale · Aragona**
 
 **Componenti del gruppo:**  
 Christian Zambuto · Rosario Modica · Emmanuel Zambuto · Calogero Cutaia · Carmelo Buscemi · Francesco Tuzzolino
